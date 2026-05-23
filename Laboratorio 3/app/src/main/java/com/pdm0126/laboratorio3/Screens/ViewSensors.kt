@@ -131,7 +131,7 @@ fun ViewSensors(navController: NavController) {
 
             Text(
                 text = "Mueve o inclina el telefono ",
-                fontSize = 1 5.sp,
+                fontSize = 15.sp,
                 color = Color.Black
             )
             Text(
